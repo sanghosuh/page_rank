@@ -1,4 +1,4 @@
-# pagerank-python-
+# Pagerank_python
 This is an implementation of pagerank in python.
 
 How to run code
